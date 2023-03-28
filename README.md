@@ -1,0 +1,9 @@
+# Spotify_Popularity_Predictions
+- Spotify is a continuously growing audio streaming platform serving both artists and listeners worldwide. Our goal is to predict the popularity of songs given their audio features to supplement Spotify’s recommendation system. 
+- In  [Data Wrangling.ipynb](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features-Capstone-2-/blob/main/Data%20Wrangling.ipynb), the audio feature dataset for top charting songs from 1921 to 2021 is aggregated to explore audio features’ relationships and patterns throughout the years. More specifically, there were three datasets used:
+  - US 1921- 2020 dataset: contains audio data for popular songs in 1921-2020 broken down into 20 features: danceability, valence, energy, tempo, loudness, speechiness, instrumentalness, liveness, acousticness, popularity, song name, artist name, song id, artist id, explicitness, duration, release date, key, mode (musical mode), and time signature.
+  - US 2021 dataset (df_US21): contains data for top 1255 songs in 2021. Titles and artists were used to query from Spotify Web API.
+  - Spotify US 2021 dataset(US21): contains audio data queried from Spotify Web API. This contained the same audio features contained in the US 1921-2020 dataset. 
+- In [Modeling- Part 1(Regression).ipynb](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features-Capstone-2-/blob/main/Modeling-%20Part%201(%20Regression).ipynb), Linear Regression model, Random Forest Regressor, and Gradient Boosting Regressor are explored.
+- In [Modeling- Part 2(Classification).ipynb](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features-Capstone-2-/blob/main/Modeling-%20Part%202(Classification).ipynb), Random Forest Classifier, and K-Nearest Neighbors Classifier models are explored.
+Among them the best model is the K-Nearest Neighbors Classifier, which has the test score (accuracy) of 0.82.
