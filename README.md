@@ -1,5 +1,5 @@
 # Spotify_Popularity_Predictions
-![image](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features/assets/102874665/7487ec9e-3100-4a6f-a3e5-44eae33427d7)
+![image](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features/assets/102874665/8f9ce508-817f-4e50-822e-2fa289bb1b89)
 
 *Spotify is a continuously growing audio streaming platform serving both artists and listeners worldwide. Our goal is to predict the popularity of songs given their audio features to supplement Spotify’s recommendation system.*
 
