@@ -41,7 +41,7 @@ The heatmap shows that while there weren't any features with significant correla
  acousticness: duration (0.51)<br>
  valence: danceability (0.55)<br>
  speechiness: danceability (0.53)<br>
- valence: energy(0.4)**
+ valence: energy(0.4)
 
 **Strong negative correaltions:<br>**
  energy: acousticness (-0.72)
