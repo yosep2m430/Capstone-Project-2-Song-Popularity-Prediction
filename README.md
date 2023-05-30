@@ -10,7 +10,9 @@ In  [Data Wrangling.ipynb](https://github.com/yosep2m430/Predicting-Song-Popular
 
 
 **2. Exploratory Data Analysis**
-In [Exploratory Data Analysis (EDA).ipynb](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features-Capstone-2-/blob/main/Exploratory%20Data%20Analysis%20(EDA).ipynb), the relationships between audio features and the relationships between user, tracks, and playlists are explored.![Uploading image.png…]()
+In [Exploratory Data Analysis (EDA).ipynb](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features-Capstone-2-/blob/main/Exploratory%20Data%20Analysis%20(EDA).ipynb), the relationships between audio features and the relationships between user, tracks, and playlists are explored.
+
+![Uploading image.png…]()
 We first explored how different audoio features changed from 1921- 2021s. Songs were high in acousticness around the 1920s-1950s. The acousticness started showing downward trend from then on. Valence and danceability values show close resemblance through the 1920s-1960s. They then show slight divergence, but both with upward trends until the 1990s. Valence and danceability then shows another divergence, with danceability increasing, while valence decreasing. Energy remains consistent throughout the 1920s-1950s, staying around 0.3. It then experienced constant upward trend until 2020s. Liveness stays consistent around 0.2 throughout the 1920s-2020s. Instrumentalness hovers around 0.2-0.4 between the 1920-1950, then decreases until the 1970s, then stays around 0.1 until 2020.
 
 ![Uploading image.png…]()
