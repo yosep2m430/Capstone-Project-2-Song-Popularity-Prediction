@@ -1,4 +1,5 @@
 # Spotify_Popularity_Predictions
+![Uploading image.png…]()
 - Spotify is a continuously growing audio streaming platform serving both artists and listeners worldwide. Our goal is to predict the popularity of songs given their audio features to supplement Spotify’s recommendation system. 
 - In  [Data Wrangling.ipynb](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features-Capstone-2-/blob/main/Data%20Wrangling.ipynb), the audio feature dataset for top charting songs from 1921 to 2021 is aggregated to explore audio features’ relationships and patterns throughout the years. More specifically, there were three datasets used:
   - US 1921- 2020 dataset: contains audio data for popular songs in 1921-2020 broken down into 20 features: danceability, valence, energy, tempo, loudness, speechiness, instrumentalness, liveness, acousticness, popularity, song name, artist name, song id, artist id, explicitness, duration, release date, key, mode (musical mode), and time signature.
