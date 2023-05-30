@@ -54,7 +54,7 @@ The heatmap shows that while there weren't any features with significant correla
 
 First, regression models were explored to predict song popularities. Regression models yielded poor performance as they attempt to predict songs' exact placements on chart. It made more intuitive sense to predict song popularities based on classifications. 
 
-The dataset was balanced before it was used, with most songs with low popularity, followed by medium, then by high popularity. This is intuitive, because there aren't as many popular songs as there are non-popular songs (otherwise, there will be much more financial stability in music industry!). However, imbalance in dataset will tamper with the accuracy of our model. The dataset was upsampled.
+The dataset was balanced before it was used, with most songs with low popularity, followed by medium, then by high popularity. This is intuitive, because there aren't as many popular songs as there are non-popular songs (otherwise, there will be much more financial stability in music industry!). However, any imbalance in dataset will tamper with the accuracy of our model. The dataset was upsampled.
 
 ### Models
 In [Modeling- Part 1(Regression).ipynb](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features-Capstone-2-/blob/main/Modeling-%20Part%201(%20Regression).ipynb), Linear Regression model, Random Forest Regressor, and Gradient Boosting Regressor are explored.
