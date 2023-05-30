@@ -55,8 +55,11 @@ First, regression models were explored to predict song popularities. Regression 
 
 The dataset was balanced before it was used, with most songs with low popularity, followed by medium, then by high popularity. This is intuitive, because there aren't as many popular songs as there are non-popular songs (otherwise, there will be much more financial stability in music industry!). However, imbalance in dataset will tamper with the accuracy of our model. The dataset was upsampled.
 
+### Models
 In [Modeling- Part 1(Regression).ipynb](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features-Capstone-2-/blob/main/Modeling-%20Part%201(%20Regression).ipynb), Linear Regression model, Random Forest Regressor, and Gradient Boosting Regressor are explored.
+
 In [Modeling- Part 2(Classification).ipynb](https://github.com/yosep2m430/Predicting-Song-Popularity-Using-Audio-Features-Capstone-2-/blob/main/Modeling-%20Part%202(Classification).ipynb), Random Forest Classifier, and K-Nearest Neighbors Classifier models are explored.
+
 Among them the best model is the K-Nearest Neighbors Classifier, which has the test score (accuracy) of 0.82.
 
 ## 5. Future Improvements
