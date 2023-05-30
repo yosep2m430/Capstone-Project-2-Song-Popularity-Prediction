@@ -37,17 +37,17 @@ Strong positive correlations:
 energy: loudness (0.75)
 
 Moderate positive correlations:
-loudness: duration (0.55)
-acousticness: duration (0.51)
-valence: danceability (0.55)
-speechiness: danceability (0.53)
+loudness: duration (0.55) <br>
+acousticness: duration (0.51)<br>
+valence: danceability (0.55)<br>
+speechiness: danceability (0.53)<br>
 valence: energy(0.4)
 
 Strong negative correaltions:
 energy: acousticness (-0.72)
 
 Moderate negative correlations:
-loudness: acousticness (-0.52)
+loudness: acousticness (-0.52)<br>
 acousticness: popularity (-0.37)
 
 ## 4. Modeling 
