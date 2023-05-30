@@ -33,20 +33,20 @@ We first explored how different audoio features changed from 1921- 2021s. Songs 
 
 The heatmap shows that while there weren't any features with significant correlation with song popularity, we had some features with noticeable correlations with each other:
 
-Strong positive correlations:
+Strong positive correlations:<br>
 energy: loudness (0.75)
 
-Moderate positive correlations:
+Moderate positive correlations:<br>
 loudness: duration (0.55) <br>
 acousticness: duration (0.51)<br>
 valence: danceability (0.55)<br>
 speechiness: danceability (0.53)<br>
 valence: energy(0.4)
 
-Strong negative correaltions:
+Strong negative correaltions:<br>
 energy: acousticness (-0.72)
 
-Moderate negative correlations:
+Moderate negative correlations:<br>
 loudness: acousticness (-0.52)<br>
 acousticness: popularity (-0.37)
 
